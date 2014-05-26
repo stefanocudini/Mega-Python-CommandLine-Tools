@@ -1,0 +1,28 @@
+{
+  "name": "mega-python-commandline-tools",
+  "version": "0.0.1",
+  "description": "A simple button to confirm a task, inline unobtrusive button confirmation",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:stefanocudini/Mega-Python-CommandLine-Tools.git"
+  },
+  "homepage": "http://labs.easyblog.it/mega-python-commandline-tools/",
+  "author": {
+    "name": "Stefano Cudini",
+    "email": "stefano.cudini@gmail.com",
+    "url": "http://labs.easyblog.it/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mega",
+    "python",
+    "bash",
+    "api"
+  ],
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-markdown": "^0.6.1"
+  }
+}
