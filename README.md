@@ -8,6 +8,11 @@ https://github.com/stefanocudini/Mega-Python-CommandLine-Tools
 
 **Requirements:**
 https://github.com/juanriaza/python-mega
+*Setup*
+```
+$ pip install python-mega
+```
+
 
 **Config**
 ~/.megarc:
