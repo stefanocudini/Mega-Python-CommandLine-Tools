@@ -7,7 +7,7 @@ Copyright stefano.cudini@gmail.com 2013
 https://github.com/stefanocudini/Mega-Python-CommandLine-Tools
 
 **Requirements:**
-https://github.com/richardasaurus/mega.py
+https://github.com/juanriaza/python-mega
 
 **Config**
 ~/.megarc:
