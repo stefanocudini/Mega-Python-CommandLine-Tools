@@ -6,11 +6,11 @@
     "type": "git",
     "url": "git@github.com:stefanocudini/Mega-Python-CommandLine-Tools.git"
   },
-  "homepage": "http://labs.easyblog.it/mega-python-commandline-tools/",
+  "homepage": "https://opengeo.tech/mega-python-commandline-tools/",
   "author": {
     "name": "Stefano Cudini",
     "email": "stefano.cudini@gmail.com",
-    "url": "http://labs.easyblog.it/"
+    "url": "https://opengeo.tech/"
   },
   "license": "MIT",
   "keywords": [

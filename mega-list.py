@@ -2,7 +2,7 @@
 #
 # Mega Python CommandLine Tools
 # Copyright stefano.cudini@gmail.com 2013
-# http://labs.easyblog.it
+# https://opengeo.tech
 #
 # Source:
 #	https://github.com/stefanocudini/Mega-Python-CommandLine-Tools
