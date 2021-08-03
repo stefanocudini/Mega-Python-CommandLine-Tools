@@ -1,6 +1,6 @@
 {
   "name": "mega-python-commandline-tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple button to confirm a task, inline unobtrusive button confirmation",
   "repository": {
     "type": "git",
